@@ -1,3 +1,3 @@
 # TheAutomaton
 
-https://jacobhubbard.itch.io/the-automaton
+Play via main.cs link
